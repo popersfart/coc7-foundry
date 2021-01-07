@@ -93,8 +93,8 @@
 	"gridUnits": "ft",
 	"primaryTokenAttribute": "health",
 	"secondaryTokenAttribute": "power",
-	"url": "https://github.com/HavlockV/CoC7-FoundryVTT/",
+	"url": "https://github.com/popersfart/coc7-foundry/",
 	"manifest": "https://github.com/popersfart/coc7-foundry/raw/main/system.json",
-	"download": "https://github.com/HavlockV/CoC7-FoundryVTT/archive/0.4.8.zip"
+	"download": "https://github.com/popersfart/coc7-foundry/archive/0.4.8.zip"
 }
   
