@@ -94,7 +94,7 @@
 	"primaryTokenAttribute": "health",
 	"secondaryTokenAttribute": "power",
 	"url": "https://github.com/HavlockV/CoC7-FoundryVTT/",
-	"manifest": "https://github.com/HavlockV/CoC7-FoundryVTT/raw/master/system.json",
+	"manifest": "https://github.com/popersfart/coc7-foundry/raw/main/system.json",
 	"download": "https://github.com/HavlockV/CoC7-FoundryVTT/archive/0.4.8.zip"
 }
   
